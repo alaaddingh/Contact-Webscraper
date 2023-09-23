@@ -20,7 +20,7 @@ Project consists of a python script along with both external and internal librar
 
 - <b>Windows 10</b>
 
-<h2>Program walk-through:</h2>
+<h2>Program walk-through</h2>
 
 <p> When ran, the program will prompt the user to enter a Google Search. The user must enter a phrase they wish the program to work with, then wait a few moments. After this, the user will be
 prompted to enter a file name for their spreadsheet. After they enter one, a file is then exported to their laptop for them to view.</p>
